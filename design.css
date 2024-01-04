@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+}
+
+h3{
+    color: blue;
+    background-color: gold;
+    width: 40%;
+    border-radius: 5px;
+    text-align: center;
+    margin:30px;
+    margin-left: 150px;
+    padding: 5px;
+    border: 2px solid silver;
+    
+}
+
+div{
+    background-color: aquamarine;
+    text-align: center;
+    color: maroon;
+    font-size: 26px;
+
+
+}
+
+#Choto{
+    background-color: blue;
+    color: white;
+}
