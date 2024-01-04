@@ -45,3 +45,17 @@ ol{
     border: 5px solid green;
     padding: 10px;
 }
+.movie{
+    color: white;
+
+}
+
+.luka{
+background-color: black;
+color: white;
+text-align: justify;
+margin: 30px;
+border: 5px solid magenta;
+padding: 10px;
+border-radius: 8px;
+}
