@@ -28,3 +28,20 @@ div{
     background-color: blue;
     color: white;
 }
+
+ul{
+    font-size: 30px;
+    margin: auto;
+    width: 50%;
+    border: 3px solid green;
+    padding: 10px;
+    background-color: lightblue;
+    color: blueviolet;
+}
+
+ol{
+    font-size: 40px;
+    margin: auto;
+    border: 5px solid green;
+    padding: 10px;
+}
